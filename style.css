@@ -7,6 +7,9 @@ body {
 
 .wrapper {
   height: 20vh;
+  min-width:800px;
+  width: auto !important;
+  width:800px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +18,6 @@ body {
 .RGBsplit {
   text-align: center;
   font-size: 96pt;
-  font-size: 2.5vw;
   color: rgb(0, 0, 255);
 }
 
@@ -42,7 +44,6 @@ body {
 .RGBsplit2 {
   text-align: center;
   font-size: 48pt;
-  font-size: 1.5vw;
   color: rgb(0, 0, 255);
 }
 
