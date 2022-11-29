@@ -7,9 +7,10 @@ body {
 
 .wrapper {
   height: 20vh;
-  <--display: flex;-->
+  display: flex;
   justify-content: center;
   align-items: center;
+  overflow:auto; 
 }
 
 .RGBsplit {
